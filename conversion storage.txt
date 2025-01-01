@@ -1,0 +1,3 @@
+1000.0 of currency INR amounts to 11.66 of currency USD today
+65000.0 of currency INR amounts to 757.69 of currency USD today
+1000.0 of currency USD amounts to 85786.89 of currency INR today
